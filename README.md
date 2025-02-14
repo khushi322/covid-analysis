@@ -16,8 +16,10 @@ To run this notebook locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/khushi322/covid-analysis
+
+   cd https://github.com/khushi322/covid-analysis
+
    ```
 2. Install the required dependencies:
    ```sh
